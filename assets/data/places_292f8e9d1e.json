@@ -1,0 +1,313 @@
+[
+  {
+    "id": "medeu",
+    "name": "Медеу",
+    "kind": "Спорткомплекс",
+    "description": "Высокогорный каток в Малоалматинском ущелье.",
+    "lat": 43.1575,
+    "lon": 77.05861111,
+    "source": "https://parkmedeu.kz/o-nas/obshchaya-informatsiya?id=30&view=category",
+    "coordinateSource": "https://en.wikipedia.org/wiki/Medeu",
+    "photo": {
+      "page": "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B5%D0%B4%D0%B5%D1%83,_%D0%90%D0%BB%D0%BC%D0%B0%D1%82%D1%8B,_2023_%D0%B6%D1%8B%D0%BB%D2%93%D1%8B_%D2%9B%D0%B0%D2%A3%D1%82%D0%B0%D1%80_(1).jpg",
+      "author": "Batyrbek.kz",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "image": "assets/images/medeu.jpg",
+    "checked": "2026-09-26",
+    "region": "Заилийский Алатау • Алматы",
+    "altitude": null,
+    "story": {
+      "tagline": "Каток между горными склонами",
+      "lead": "Медеу — удобная точка, с которой знакомство с горами начинается ещё до тропы: ледовая арена, вид на ущелье и дорога к Шымбулаку.",
+      "moments": [
+        {
+          "title": "Арена в ущелье",
+          "text": "Посмотрите, как открытый каток вписан между лесистыми склонами Малой Алматинки."
+        },
+        {
+          "title": "Вид сверху",
+          "text": "С высоты хорошо читаются чаша катка, дорога и рельеф вокруг комплекса."
+        },
+        {
+          "title": "Дальше к вершинам",
+          "text": "Неподалёку находится нижняя станция гондольной дороги на Шымбулак."
+        }
+      ],
+      "visitNote": "Работу катка, транспорта и канатной дороги проверяйте перед поездкой.",
+      "source": "https://parkmedeu.kz/o-nas/obshchaya-informatsiya?id=30&view=category"
+    },
+    "gallery": [
+      {
+        "image": "assets/images/medeu.jpg",
+        "caption": "Каток Медеу зимой",
+        "photo": {
+          "page": "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B5%D0%B4%D0%B5%D1%83,_%D0%90%D0%BB%D0%BC%D0%B0%D1%82%D1%8B,_2023_%D0%B6%D1%8B%D0%BB%D2%93%D1%8B_%D2%9B%D0%B0%D2%A3%D1%82%D0%B0%D1%80_(1).jpg",
+          "author": "Batyrbek.kz",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+        }
+      },
+      {
+        "image": "assets/images/medeu_dam.jpg",
+        "caption": "Комплекс с высоты",
+        "photo": {
+          "page": "https://commons.wikimedia.org/wiki/File:Medeu-_4.jpg",
+          "author": "User:Vmenkov",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "shymbulak",
+    "name": "Шымбулак",
+    "kind": "Курорт",
+    "description": "Горный курорт над Медеу, связанный с ним канатной дорогой.",
+    "lat": 43.12805556,
+    "lon": 77.08083333,
+    "source": "https://shymbulak.com/info/?contactTab=address",
+    "coordinateSource": "https://en.wikipedia.org/wiki/Shymbulak",
+    "photo": {
+      "page": "https://commons.wikimedia.org/wiki/File:Shimbulak1.JPG",
+      "author": "Girdi at English Wikipedia",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    "image": "assets/images/shymbulak.jpg",
+    "checked": "2026-09-26",
+    "region": "Заилийский Алатау • Алматы",
+    "altitude": null,
+    "story": {
+      "tagline": "Дорога наверх — часть приключения",
+      "lead": "Шымбулак соединяет горные виды и движение: сначала гондола от Медеу, затем линии Комби-1 и Комби-2 выше по склону.",
+      "moments": [
+        {
+          "title": "Гондола из Медеу",
+          "text": "По пути на курорт можно увидеть ущелье и лесные склоны с высоты."
+        },
+        {
+          "title": "Комби-1 и Комби-2",
+          "text": "Следующие участки подъёма ведут к более высоким станциям и другим ракурсам гор."
+        },
+        {
+          "title": "Сезон меняет место",
+          "text": "Зимой здесь горнолыжный курорт, летом — горные виды и прогулки."
+        }
+      ],
+      "visitNote": "Доступность подъёмников и расписание меняются. Перед поездкой сверяйтесь с сайтом курорта.",
+      "source": "https://shymbulak.com/tickets/"
+    },
+    "gallery": [
+      {
+        "image": "assets/images/shymbulak.jpg",
+        "caption": "Горные склоны Шымбулака",
+        "photo": {
+          "page": "https://commons.wikimedia.org/wiki/File:Shimbulak1.JPG",
+          "author": "Girdi at English Wikipedia",
+          "license": "Public domain",
+          "licenseUrl": ""
+        }
+      },
+      {
+        "image": "assets/images/shymbulak_cable.jpg",
+        "caption": "Гондола Медеу — Шымбулак",
+        "photo": {
+          "page": "https://commons.wikimedia.org/wiki/File:Medeu-Shymbulak_Cableway,_Almaty_(P1180177).jpg",
+          "author": "Matti Blume",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+        }
+      }
+    ]
+  },
+  {
+    "id": "butakovka",
+    "name": "Бутаковский водопад",
+    "kind": "Водопад",
+    "description": "Водопад в Бутаковском ущелье. Состояние подходов требует проверки перед выходом.",
+    "lat": 43.171993,
+    "lon": 77.113563,
+    "source": "https://parkmedeu.kz/o-nas/obshchaya-informatsiya?id=30&view=category",
+    "coordinateSource": "https://commons.wikimedia.org/wiki/File:%D0%91%D2%B1%D1%82%D0%B0%D2%9B%D1%82%D1%8B_%D1%81%D0%B0%D1%80%D2%9B%D1%8B%D1%80%D0%B0%D0%BC%D0%B0%D1%81%D1%8B.jpg",
+    "photo": {
+      "page": "https://commons.wikimedia.org/wiki/File:%D0%91%D2%B1%D1%82%D0%B0%D2%9B%D1%82%D1%8B_%D1%81%D0%B0%D1%80%D2%9B%D1%8B%D1%80%D0%B0%D0%BC%D0%B0%D1%81%D1%8B.jpg",
+      "author": "Mukhamedzhan",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "image": "assets/images/butakovka.jpg",
+    "checked": "2026-09-26",
+    "region": "Заилийский Алатау • Алматы",
+    "altitude": null,
+    "coordinateNote": "Точка съёмки фотографии у водопада, не подтверждённая точка старта.",
+    "story": {
+      "tagline": "Вода на фоне скал",
+      "lead": "У водопада главное — подойти ближе к рельефу: увидеть поток, каменную стену и зелень Бутаковского ущелья.",
+      "moments": [
+        {
+          "title": "Водопад вблизи",
+          "text": "Скальная стена и поток дают совсем другой масштаб, чем вид издалека."
+        },
+        {
+          "title": "Горное ущелье",
+          "text": "По дороге внимание переходит от города к деревьям, камням и воде."
+        },
+        {
+          "title": "Каждый сезон разный",
+          "text": "Внешний вид водопада и подходов меняется с погодой и временем года."
+        }
+      ],
+      "visitNote": "Точка на карте обозначает объект, а не подтверждённый старт безопасной тропы. Уточните маршрут и состояние подхода.",
+      "source": "https://parkmedeu.kz/o-nas/obshchaya-informatsiya?id=30&view=category"
+    },
+    "gallery": [
+      {
+        "image": "assets/images/butakovka.jpg",
+        "caption": "Бутаковский водопад",
+        "photo": {
+          "page": "https://commons.wikimedia.org/wiki/File:%D0%91%D2%B1%D1%82%D0%B0%D2%9B%D1%82%D1%8B_%D1%81%D0%B0%D1%80%D2%9B%D1%8B%D1%80%D0%B0%D0%BC%D0%B0%D1%81%D1%8B.jpg",
+          "author": "Mukhamedzhan",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+        }
+      },
+      {
+        "image": "assets/images/butakovka_falls.jpg",
+        "caption": "Водопад у скальной стены",
+        "photo": {
+          "page": "https://commons.wikimedia.org/wiki/File:%D0%91%D1%83%D1%82%D0%B0%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4_10.jpg",
+          "author": "Sane4o",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "kok",
+    "name": "Кок-Жайляу",
+    "kind": "Урочище",
+    "description": "Горное урочище с открытыми полянами и видами на Заилийский Алатау.",
+    "lat": 43.14284194,
+    "lon": 77.00399,
+    "source": "https://visitalmaty.kz/activity/kok-zhajlyau/",
+    "coordinateSource": "https://en.wikipedia.org/wiki/Kok%20Zhailau",
+    "photo": {
+      "page": "https://commons.wikimedia.org/wiki/File:%D0%9A%D0%BE%D0%BA-%D0%B6%D0%B0%D0%B9%D0%BB%D1%8F%D1%83_2.jpg",
+      "author": "Dina Julayeva",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "image": "assets/images/kok.jpg",
+    "checked": "2026-09-26",
+    "region": "Заилийский Алатау • Алматы",
+    "altitude": null,
+    "story": {
+      "tagline": "Просторная поляна над городом",
+      "lead": "На Кок-Жайляу впечатляет смена пространства: тропа выводит из еловых склонов к открытым луговым видам.",
+      "moments": [
+        {
+          "title": "Открытая поляна",
+          "text": "Здесь хочется остановиться и рассмотреть окружающие хребты."
+        },
+        {
+          "title": "Еловые склоны",
+          "text": "Лес и луг создают узнаваемый пейзаж урочища."
+        },
+        {
+          "title": "Панорама с высоты",
+          "text": "Второй снимок показывает поляну со стороны хребта Кумбель."
+        }
+      ],
+      "visitNote": "Для похода нужна проверенная тропа: линия в приложении демонстрационная.",
+      "source": "https://visitalmaty.kz/activity/kok-zhajlyau/"
+    },
+    "gallery": [
+      {
+        "image": "assets/images/kok.jpg",
+        "caption": "Поляна Кок-Жайляу",
+        "photo": {
+          "page": "https://commons.wikimedia.org/wiki/File:%D0%9A%D0%BE%D0%BA-%D0%B6%D0%B0%D0%B9%D0%BB%D1%8F%D1%83_2.jpg",
+          "author": "Dina Julayeva",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+        }
+      },
+      {
+        "image": "assets/images/kok_ridge.jpg",
+        "caption": "Вид с хребта Кумбель",
+        "photo": {
+          "page": "https://commons.wikimedia.org/wiki/File:Kok_Jailaoo_view_from_Koom-bell_ridge_2.jpg",
+          "author": "Soorette salike",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "bao",
+    "name": "Большое Алматинское озеро",
+    "kind": "Озеро",
+    "description": "Высокогорное озеро в Большом Алматинском ущелье.",
+    "lat": 43.0506,
+    "lon": 76.985,
+    "source": "https://mountain.visitalmaty.kz/",
+    "coordinateSource": "https://en.wikipedia.org/wiki/Big%20Almaty%20Lake",
+    "photo": {
+      "page": "https://commons.wikimedia.org/wiki/File:Big_Almaty_Lake_(2511_m)_and_snowy_peak_of_Soviets_(4317_m)_in_September,_2,_2017.jpg",
+      "author": "МаратД",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "image": "assets/images/bao.jpg",
+    "checked": "2026-09-26",
+    "region": "Заилийский Алатау • Алматы",
+    "altitude": null,
+    "story": {
+      "tagline": "Озеро в чаше высоких гор",
+      "lead": "Большое Алматинское озеро запоминается сочетанием бирюзовой воды, крутых склонов и снежных вершин. Зимой палитра становится совсем другой.",
+      "moments": [
+        {
+          "title": "Цвет воды",
+          "text": "Оттенки озера и гор меняются со светом и сезоном."
+        },
+        {
+          "title": "Горная чаша",
+          "text": "На фотографиях хорошо видны склоны, окружающие водоём."
+        },
+        {
+          "title": "Важный водоём",
+          "text": "Озеро служит источником воды для Алматы, поэтому относитесь к местности бережно."
+        }
+      ],
+      "visitNote": "Правила доступа и состояние дороги проверяйте у официальных источников перед выездом.",
+      "source": "https://visitalmaty.kz/activity/bolshoe-almatinskoe-ozero/"
+    },
+    "gallery": [
+      {
+        "image": "assets/images/bao.jpg",
+        "caption": "Большое Алматинское озеро",
+        "photo": {
+          "page": "https://commons.wikimedia.org/wiki/File:Big_Almaty_Lake_(2511_m)_and_snowy_peak_of_Soviets_(4317_m)_in_September,_2,_2017.jpg",
+          "author": "МаратД",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+        }
+      },
+      {
+        "image": "assets/images/bao_winter.jpg",
+        "caption": "Озеро зимой",
+        "photo": {
+          "page": "https://commons.wikimedia.org/wiki/File:Big_Almaty_Lake_Winter.jpg",
+          "author": "Amarkiev",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+        }
+      }
+    ]
+  }
+]
